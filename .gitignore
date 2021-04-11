@@ -1,14 +1,2 @@
-*.pdf
-*.csv
-*.json
-*.dcm
-*.dcm
-*.dcm
-*.dcm
-*.dcm
-*.dcm
-*.csv
 *.hdf5
 .ipynb_checkpoints/
-fig/
-*.ipynb
